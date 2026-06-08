@@ -1,0 +1,7 @@
+streamlit
+pandas
+psycopg2-binary
+python-dotenv
+reportlab
+openpyxl
+sqlalchemy
